@@ -1,0 +1,27 @@
+<?php
+return [
+    'welcome'=>'Dale una segunda vida a tus cosas',
+    'subtitle'=>'Encuentra todo lo que necesitas al mejor precio y vende aquello que ya no utilices.',
+    'logIn'=>'Iniciar Sesión',
+    'register'=>'Registro',
+    'logOut'=>'Cerrar Sesión',
+    'help'=>'Ayuda',
+    'explorer'=>'Explorar',
+    'ads'=>'Anuncios',
+    'delivery'=>'Envíos',
+    'how'=>'¿Cómo funciona?',
+    'revisor'=>'Anuncios por revisar',
+    'newAds'=>'Publicar anuncio',
+    'question'=>'¿Que estás buscando?',
+    'placeHolder'=>'Ej. pijama de unicornio',
+    'latest'=>'Últimos publicados',
+
+    'ropa'=>'Ropa',
+    'accesorios'=>'Accesorios',
+    'calzado'=>'Calzado',
+    'tecnología'=>'Tecnología',
+    'automóviles'=>'Automóviles',
+    'hogar'=>'Hogar',
+    'infantil'=>'Infantil',
+    'jardinería'=>'Jardinería',
+];

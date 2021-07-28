@@ -1,0 +1,27 @@
+<?php
+return [
+    'welcome'=>'Give your things a second life',
+    'subtitle'=>'Find everything you need at the best price and sell what you no longer use.',
+    'logIn'=>'Log In',
+    'register'=>'Sing In',
+    'logOut'=>'Log Out',
+    'help'=>'Help',
+    'explorer'=>'Explore',
+    'ads'=>'Announcement',
+    'delivery'=>'Shipping',
+    'how'=>'How it works?',
+    'revisor'=>'Ads to review',
+    'newAds'=>'Post Ad',
+    'question'=>'What are you looking for?',
+    'placeHolder'=>'Ex. unicorn pajamas',
+    'latest'=>'Latest published',
+
+    'ropa'=>'Clothes',
+    'accesorios'=>'Accesories',
+    'calzado'=>'Shoes',
+    'tecnología'=>'Tecnology',
+    'automóviles'=>'Automobile',
+    'hogar'=>'Home',
+    "infantil"=>"Child's",
+    'jardinería'=>'Gardening',
+];
